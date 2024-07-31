@@ -3,3 +3,9 @@ div{
     height: 500px;
     width: 700px;
 }
+p{
+    color: blue;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: double;
+}
