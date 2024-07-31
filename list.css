@@ -1,9 +1,9 @@
-div{
+#unordered{
     background-color: pink;
     height: 500px;
     width: 700px;
 }
-p{
+.ul list{
     color: blue;
     text-transform: capitalize;
     text-align: center;
