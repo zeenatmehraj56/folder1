@@ -1,6 +1,40 @@
 #unordered{
-    background-color: pink;
+    background-color: rgb(250, 218, 223);
     height: 500px;
     width: 700px;
     border: 2px solid black;
+    color:maroon;
+
+}
+.ul-list {
+text-align: center;
+text-transform: capitalize;
+font-size: 25px;
+
+
+}
+li{
+    color: black;
+    font-size: 19px;
+}
+ul{
+    color: rgb(68, 15, 240);
+}
+#ordered{
+    background-color:rgb(250, 218, 223);
+    height: 450px;
+    width: 700px;
+    color: rgb(133, 2, 255);
+    font-size: 20px;
+    border: 3px black solid;
+}
+.ol-list{color:rgb(216, 13, 13);
+    text-align: center;
+
+
+
+}
+.ol{
+    color: darkgreen
+    ;
 }
