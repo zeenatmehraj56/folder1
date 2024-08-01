@@ -1,0 +1,13 @@
+h2{
+    background-color: rgb(136, 11, 198);
+    color: white;
+    font-size: 20px;
+}
+th{
+    background-color: rgb(10, 255, 255);
+    color: red;
+}
+td{
+    background-color: rgb(129, 255, 104);
+    color:black;
+}
